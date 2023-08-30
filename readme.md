@@ -1,4 +1,4 @@
-### No se usar readme xD
+### No se
 
 
 #Formula que usaremos 
